@@ -11,6 +11,8 @@ namespace Calc
     {
         static string str_error = string.Empty;
           
+		  
+		  
         static void Main(string[] args)
         {
             //string arg = "2+2*2"; тест
